@@ -1,2 +1,2 @@
 # netacademia-bt4
-A netakadémia bootstrap 4 tanfolyama
+A Netacademia Bootstrap 4 tanfolyama
